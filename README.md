@@ -18,6 +18,9 @@ CSS3 / SCSS| MySQL
 **BackEnd Developer:** Alexandre
 **Full Stack Developer:** Florent / Ludovic
 
+## Strategy / Method
+We use an Agile method to allow us to evolve the app according to different issues
+
 ## Tasks
 #### Front-End / Integration
 Create a model
